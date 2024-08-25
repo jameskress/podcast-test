@@ -1,4 +1,4 @@
-name: Generate Podcast Feeds From YAML
+name: Generate Podcast Feeds from YAML
 on: [push]
 jobs:
   build:
